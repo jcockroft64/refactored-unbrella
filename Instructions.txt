@@ -1,1 +1,2 @@
 These are instructions on the refactored-umbrella website (and some other stuff) and some more stuff.
+Adding instructions into a local branch on Jason's mac.
